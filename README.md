@@ -1,2 +1,2 @@
 # Bioinformatics_tools
-## ** GEO文件下载**
+## GEO文件下载
